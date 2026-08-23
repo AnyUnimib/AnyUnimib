@@ -51,7 +51,7 @@
 | [Cattle Breed Classification](https://github.com/AnyUnimib/Cattle_Breed_Classification) | Bachelor's thesis — CNN vs. 4 classical ML models on 5,025 self-collected cattle images across 5 breeds (98.4% best accuracy) | TensorFlow, scikit-learn |
 | [Flower Image Classification](https://github.com/AnyUnimib/Flower_Image_Classification) | Custom CNN vs. MobileNetV2 transfer learning (87% vs. 59% test accuracy) | TensorFlow, Keras |
 | [Multi-label Toxic Comment Detection](https://github.com/AnyUnimib/Multi-label_Toxic_Comment_Detection) | DistilBERT classification + SBERT/HDBSCAN clustering on the Jigsaw dataset — 174 semantic toxic micro-clusters found | PyTorch, Transformers, HDBSCAN |
-| [MRI-Based Alzheimer's Analysis (ADNI)](https://github.com/AnyUnimib/ADNI_MRI_Clustering_Classification) | Unsupervised clustering + AD vs. HC classification on brain MRI ROI features (ROC-AUC ≈ 0.999) | scikit-learn, nibabel |
+| [MRI-Based Alzheimer's Analysis ADNI](https://github.com/AnyUnimib/ADNI_MRI_Clustering_Classification) | Unsupervised clustering + AD vs. HC classification on brain MRI ROI features (ROC-AUC ≈ 0.999) | scikit-learn, nibabel |
 
 ### 📊 Analytics & Business Intelligence
 | Project | What it does | Tech |
