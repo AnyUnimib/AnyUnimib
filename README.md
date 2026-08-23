@@ -27,7 +27,7 @@
 - 🔭 Working across the full data pipeline: data engineering (SQL/NoSQL) → statistical modeling → machine learning → deep learning
 - 🧠 Particular interest in applied ML for healthcare/neuroimaging, NLP, and marketing/customer analytics
 - 🔐 Also curious about the security side of data systems (see the password-cracking audit below 👇)
-- 📫 Reach me at: **[add your email or LinkedIn here]**
+- 📫 Reach me at: ** a.das3@campus.unimib.it**
 
 <br>
 
