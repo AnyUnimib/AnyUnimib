@@ -4,7 +4,7 @@
 
 **MSc Data Science Student · Università degli Studi di Milano-Bicocca**
 
-📍 Milan, Italy · 🎓 BSc in CS&E, Premier University Chittagong, Bangladesh
+📍 Milan, Italy · 🎓 BSc (Engineering) in Computer Science & Engineering, Premier University Chittagong, Bangladesh
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
@@ -23,7 +23,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing an **MSc in Data Science** at Università degli Studi di Milano-Bicocca (CdLM Data Science)
-- 🎓 **BSc in Computer Science & Engineering** from Premier University Chittagong — thesis: *Cattle Breed Classification through Multiple Approaches*
+- 🎓 **Bachelor of Science (Engineering) in Computer Science and Engineering** from Premier University Chittagong — thesis: *Cattle Breed Classification through Multiple Approaches*
 - 🔭 Working across the full data pipeline: data engineering (SQL/NoSQL) → statistical modeling → machine learning → deep learning
 - 🧠 Particular interest in applied ML for healthcare/neuroimaging, NLP, and marketing/customer analytics
 - 🔐 Also curious about the security side of data systems (see the password-cracking audit below 👇)
