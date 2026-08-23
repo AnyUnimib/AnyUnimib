@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Any Das 👋
+# Hi, I'm Any 👋
 
 **MSc Data Science Student · Università degli Studi di Milano-Bicocca**
 
