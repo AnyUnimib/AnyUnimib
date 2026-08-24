@@ -24,10 +24,11 @@
 
 - 🎓 Pursuing an **MSc in Data Science** at Università degli Studi di Milano-Bicocca (CdLM Data Science)
 - 🎓 **Bachelor of Science (Engineering) in Computer Science and Engineering** from Premier University Chittagong — thesis: *Cattle Breed Classification through Multiple Approaches*
+- 🚧 **Currently working on my Master's thesis**: Ethereum blockchain transaction network analysis, focused on MEV (Miner Extractable Value) actors — building wallet/smart-contract role classification, MEV-Boost builder-validator identification, and Leiden community detection over the transaction network
 - 🔭 Working across the full data pipeline: data engineering (SQL/NoSQL) → statistical modeling → machine learning → deep learning
 - 🧠 Particular interest in applied ML for healthcare/neuroimaging, NLP, and marketing/customer analytics
 - 🔐 Also curious about the security side of data systems (see the password-cracking audit below 👇)
-- 📫 Reach me at: ** a.das3@campus.unimib.it**
+- 📫 Reach me at: **a.das3@campus.unimib.it**
 
 <br>
 
@@ -51,28 +52,28 @@
 | [Cattle Breed Classification](https://github.com/AnyUnimib/Cattle_Breed_Classification) | Bachelor's thesis — CNN vs. 4 classical ML models on 5,025 self-collected cattle images across 5 breeds (98.4% best accuracy) | TensorFlow, scikit-learn |
 | [Flower Image Classification](https://github.com/AnyUnimib/Flower_Image_Classification) | Custom CNN vs. MobileNetV2 transfer learning (87% vs. 59% test accuracy) | TensorFlow, Keras |
 | [Multi-label Toxic Comment Detection](https://github.com/AnyUnimib/Multi-label_Toxic_Comment_Detection) | DistilBERT classification + SBERT/HDBSCAN clustering on the Jigsaw dataset — 174 semantic toxic micro-clusters found | PyTorch, Transformers, HDBSCAN |
-| [MRI-Based Alzheimer's Analysis ADNI](https://github.com/AnyUnimib/MRI-Based_Alzheimer-s_Analysis_ADNI) | Unsupervised clustering + AD vs. HC classification on brain MRI ROI features (ROC-AUC ≈ 0.999) | scikit-learn, nibabel |
+| [MRI-Based Alzheimer's Analysis (ADNI)](https://github.com/AnyUnimib/MRI-Based_Alzheimer-s_Analysis_ADNI) | Unsupervised clustering + AD vs. HC classification on brain MRI ROI features (ROC-AUC ≈ 0.999) | scikit-learn, nibabel |
 
 ### 📊 Analytics & Business Intelligence
 | Project | What it does | Tech |
 |---|---|---|
-| [Customer Lifetime Value — FMCG Retailer](https://github.com/AnyUnimib/Customer_Lifetime_Value_Analysis) | RFM segmentation + probabilistic BG/NBD-Gamma-Gamma CLV modeling on 10K customers | PostgreSQL, `lifetimes` |
-| [Marketing Mix Modeling (Meridian + SHAP)](https://github.com/AnyUnimib/Marketing_Mix_Modeling) | Geo-level Bayesian MMM with SHAP cross-check and constrained budget optimization | Google Meridian, SHAP |
-| [Customer Churn Prediction — Spark](https://github.com/AnyUnimib/Customer_Churn_Analysis_Spark_API) | 5-model churn benchmark across balanced/imbalanced data, built as reusable Spark pipeline stages | PySpark MLlib |
-| [Customer Churn Prediction — scikit-learn](https://github.com/AnyUnimib/Customer_Churn_Analysis_Scikit-Learn) | The scikit-learn foundation for the Spark version above, same benchmark design | scikit-learn |
-| [Adult Census Income Prediction](https://github.com/AnyUnimib/Adult_Census_Income) | Visual ML pipeline comparing 7 algorithms under Holdout, Cross-Validation, and Feature-Selection strategies | KNIME |
+| [Customer Lifetime Value Analysis](https://github.com/AnyUnimib/Customer_Lifetime_Value_Analysis) | RFM segmentation + probabilistic BG/NBD-Gamma-Gamma CLV modeling on 10K customers | PostgreSQL, `lifetimes` |
+| [Marketing Mix Modeling](https://github.com/AnyUnimib/Marketing_Mix_Modeling) | Geo-level Bayesian MMM with SHAP cross-check and constrained budget optimization | Google Meridian, SHAP |
+| [Customer Churn Analysis — Spark API](https://github.com/AnyUnimib/Customer_Churn_Analysis_Spark_API) | 5-model churn benchmark across balanced/imbalanced data, built as reusable Spark pipeline stages | PySpark MLlib |
+| [Customer Churn Analysis — Scikit-Learn](https://github.com/AnyUnimib/Customer_Churn_Analysis_Scikit-Learn) | The scikit-learn foundation for the Spark version above, same benchmark design | scikit-learn |
+| [Adult Census Income](https://github.com/AnyUnimib/Adult_Census_Income) | Visual ML pipeline comparing 7 algorithms under Holdout, Cross-Validation, and Feature-Selection strategies | KNIME |
 
 ### 🗄️ Big Data & Systems
 | Project | What it does | Tech |
 |---|---|---|
-| [Redis-Based Airbnb Analytics — NYC](https://github.com/AnyUnimib/Redis-Based_Airbnb_Data_Management_and_Analytics) | Pipeline loading 36K+ listings and 13M+ calendar rows into Redis for real-time pricing/occupancy queries | Redis, pandas |
-| [Hashtag Virality & Engagement Analysis](https://github.com/AnyUnimib/Hashtag_Virality_and_Engagement_Analysis) | Async FastAPI service integrating real-time Instagram data with historical Kaggle data in MongoDB | FastAPI, MongoDB |
+| [Redis-Based Airbnb Data Management and Analytics](https://github.com/AnyUnimib/Redis-Based_Airbnb_Data_Management_and_Analytics) | Pipeline loading 36K+ listings and 13M+ calendar rows into Redis for real-time pricing/occupancy queries | Redis, pandas |
+| [Hashtag Virality and Engagement Analysis](https://github.com/AnyUnimib/Hashtag_Virality_and_Engagement_Analysis) | Async FastAPI service integrating real-time Instagram data with historical Kaggle data in MongoDB | FastAPI, MongoDB |
 
 ### 🌐 Social & Statistical Analysis
 | Project | What it does | Tech |
 |---|---|---|
-| [Digital Discourse on Climate Security (COP27)](https://github.com/AnyUnimib/Digital_Discourse_on_Climate_Security) | Social Network + Content Analysis of 335K+ climate-security tweets, uncovering 4 structural/sentiment paradoxes | NetworkX, Python |
-| [Freedom in the World](https://github.com/AnyUnimib/Freedom_World_Empirical_Study) | Regression + Random Forest study of internet access, gender, and education effects on political/civil freedoms | statsmodels, scikit-learn |
+| [Digital Discourse on Climate Security](https://github.com/AnyUnimib/Digital_Discourse_on_Climate_Security) | Social Network + Content Analysis of 335K+ climate-security tweets, uncovering 4 structural/sentiment paradoxes | NetworkX, Python |
+| [Freedom in the World: Empirical Study](https://github.com/AnyUnimib/Freedom_World_Empirical_Study) | Regression + Random Forest study of internet access, gender, and education effects on political/civil freedoms | statsmodels, scikit-learn |
 | [HCC Recurrence Analysis](https://github.com/AnyUnimib/Analysis_of_HCC_Recurrence) | Competing-risks and Cox survival modeling of post-recurrence outcomes in liver cancer patients | R, `survival`, `cmprsk` |
 
 ### 🔐 Security
