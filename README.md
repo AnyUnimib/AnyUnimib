@@ -25,9 +25,9 @@
 - 🎓 Pursuing an **MSc in Data Science** at Università degli Studi di Milano-Bicocca (CdLM Data Science)
 - 🎓 **Bachelor of Science (Engineering) in Computer Science and Engineering** from Premier University Chittagong — thesis: *Cattle Breed Classification through Multiple Approaches*
 - 🚧 **Currently working on my Master's thesis**: Ethereum blockchain transaction network analysis, focused on MEV (Maximal Extractable Value) actors — including wallet/smart-contract role classification, MEV-Boost builder-validator identification, economic transaction flow analysis, and Leiden community detection
-- 🔭 Working across data engineering, statistical modeling, machine learning, and deep learning
+- 🔭 Working across data engineering, statistical modeling, machine learning, deep learning, and applied data science
 - 🧠 Interested in applied machine learning, healthcare/neuroimaging, NLP, and marketing/customer analytics
-- 🔐 Also curious about the security side of data systems (see the password-cracking audit below 👇)
+- 🔐 Interested in cybersecurity and security applications of data science, with academic coursework and hands-on experience in security assessment
 - 📫 Reach me at: a.das3@campus.unimib.it
 
 <br>
@@ -58,7 +58,7 @@
 ### 📊 Analytics & Business Intelligence
 | Project | What it does | Tech |
 |---|---|---|
-| [Customer Lifetime Value Analysis](https://github.com/AnyUnimib/Customer_Lifetime_Value_Analysis) | RFM segmentation + probabilistic BG/NBD-Gamma-Gamma CLV modeling on 10K customers | PostgreSQL, `lifetimes` |
+| [Customer Lifetime Value Analysis](https://github.com/AnyUnimib/Customer_Lifetime_Value_Analysis) | RFM segmentation + probabilistic BG/NBD + Gamma-Gamma CLV modeling on 10K customers | PostgreSQL, `lifetimes` |
 | [Marketing Mix Modeling](https://github.com/AnyUnimib/Marketing_Mix_Modeling) | Geo-level Bayesian MMM with SHAP cross-check and constrained budget optimization | Google Meridian, SHAP |
 | [Customer Churn Analysis — Spark API](https://github.com/AnyUnimib/Customer_Churn_Analysis_Spark_API) | 5-model churn benchmark across balanced/imbalanced data, built as reusable Spark pipeline stages | PySpark MLlib |
 | [Customer Churn Analysis — Scikit-Learn](https://github.com/AnyUnimib/Customer_Churn_Analysis_Scikit-Learn) | The scikit-learn foundation for the Spark version above, same benchmark design | scikit-learn |
