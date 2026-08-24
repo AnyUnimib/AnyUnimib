@@ -24,9 +24,9 @@
 
 - 🎓 Pursuing an **MSc in Data Science** at Università degli Studi di Milano-Bicocca (CdLM Data Science)
 - 🎓 **Bachelor of Science (Engineering) in Computer Science and Engineering** from Premier University Chittagong — thesis: *Cattle Breed Classification through Multiple Approaches*
-- 🚧 **Currently working on my Master's thesis**: Ethereum blockchain transaction network analysis, focused on MEV (Miner Extractable Value) actors — building wallet/smart-contract role classification, MEV-Boost builder-validator identification, and Leiden community detection over the transaction network
-- 🔭 Working across the full data pipeline: data engineering (SQL/NoSQL) → statistical modeling → machine learning → deep learning
-- 🧠 Particular interest in applied ML for healthcare/neuroimaging, NLP, and marketing/customer analytics
+- 🚧 **Currently working on my Master's thesis**: Ethereum blockchain transaction network analysis, focused on MEV (Maximal Extractable Value) actors — including wallet/smart-contract role classification, MEV-Boost builder-validator identification, economic transaction flow analysis, and Leiden community detection
+- 🔭 Working across data engineering, statistical modeling, machine learning, and deep learning
+- 🧠 Interested in applied machine learning, healthcare/neuroimaging, NLP, and marketing/customer analytics
 - 🔐 Also curious about the security side of data systems (see the password-cracking audit below 👇)
 - 📫 Reach me at: a.das3@campus.unimib.it
 
@@ -36,10 +36,10 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, R |
+| **Languages** | Python, R, SQL |
 | **ML / DL** | scikit-learn, TensorFlow / Keras, PyTorch, Transformers, PySpark MLlib |
 | **Data Engineering** | pandas, NumPy, PostgreSQL, MongoDB, Redis, KNIME |
-| **Specialized** | nibabel (neuroimaging), Google Meridian (MMM), SHAP, NetworkX, FastAPI |
+| **Specialized / Frameworks** | nibabel (neuroimaging), Google Meridian (MMM), SHAP, NetworkX, FastAPI |
 | **Visualization** | Matplotlib, Seaborn, Plotly |
 
 <br>
@@ -50,9 +50,10 @@
 | Project | What it does | Tech |
 |---|---|---|
 | [Cattle Breed Classification](https://github.com/AnyUnimib/Cattle_Breed_Classification) | Bachelor's thesis — CNN vs. 4 classical ML models on 5,025 self-collected cattle images across 5 breeds (98.4% best accuracy) | TensorFlow, scikit-learn |
-| [Flower Image Classification](https://github.com/AnyUnimib/Flower_Image_Classification) | Custom CNN vs. MobileNetV2 transfer learning (87% vs. 59% test accuracy) | TensorFlow, Keras |
+| [MRI-Based Alzheimer's Analysis (ADNI)](https://github.com/AnyUnimib/MRI-Based_Alzheimer-s_Analysis_ADNI) | ROI-based brain MRI analysis combining unsupervised clustering with AD vs. HC classification (ROC-AUC ≈ 0.999) | scikit-learn, nibabel |
 | [Multi-label Toxic Comment Detection](https://github.com/AnyUnimib/Multi-label_Toxic_Comment_Detection) | DistilBERT classification + SBERT/HDBSCAN clustering on the Jigsaw dataset — 174 semantic toxic micro-clusters found | PyTorch, Transformers, HDBSCAN |
-| [MRI-Based Alzheimer's Analysis (ADNI)](https://github.com/AnyUnimib/MRI-Based_Alzheimer-s_Analysis_ADNI) | Unsupervised clustering + AD vs. HC classification on brain MRI ROI features (ROC-AUC ≈ 0.999) | scikit-learn, nibabel |
+| [Flower Image Classification](https://github.com/AnyUnimib/Flower_Image_Classification) | Custom CNN vs. MobileNetV2 transfer learning (87% vs. 59% test accuracy) | TensorFlow, Keras |
+
 
 ### 📊 Analytics & Business Intelligence
 | Project | What it does | Tech |
