@@ -83,11 +83,3 @@
 | [Vulnerability Assessment of Encrypted Archives](https://github.com/AnyUnimib/Vulnerability_Assessment_of_Encrypted_Archives) | Password-cracking audit comparing Dictionary, Wordlist, Mask, and Brute-force attacks | John the Ripper |
 
 <br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Any's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnyUnimib&show_icons=true&theme=default)
-
-</div>
